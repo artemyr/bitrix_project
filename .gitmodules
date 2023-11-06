@@ -1,0 +1,6 @@
+[submodule "bitrix"]
+	path = bitrix
+	url = git@gitlab.digital-sector.ru:bitrix_v2/bitrix.git
+[submodule "local/templates/.default/bitrix_markup"]
+	path = local/templates/.default/bitrix_markup
+	url = git@github.com:artemyr/bitrix_markup.git
